@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine
+}
+
+.heading{
+    width: 800px;
+    font-size:22px;
+    background-color: beige;
+}
+
+.name_of_object, #result_object_name, #result_accuracy{
+    color: blueviolet;
+}
+
+b{
+    color:brown;
+}
